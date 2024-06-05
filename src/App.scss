@@ -1,0 +1,39 @@
+@import "~react-image-gallery/styles/scss/image-gallery.scss";
+::-webkit-scrollbar {
+    width: 0;
+}
+html {
+    font-size: 16px !important;
+    min-height: 100vh;
+    body {
+        background-color: #17191c;
+        header {
+            min-height: 100vh;
+            background-image: url('./assets/photo-xmtviojgwrgw0ku7.jpg');
+            background-size: cover;
+            background-position: center;
+        }
+    }
+}
+.bg-blur {
+    backdrop-filter: blur(40px);
+}
+.bg-accent {
+    background-color: #2a2c2f65 !important;
+    backdrop-filter: blur(30);
+}
+.bg-accent-mobile {
+    background-color: #2a2c2f !important;
+    backdrop-filter: blur(30);
+}
+.w-max {
+    width: max-content !important;
+}
+.headerBreak {
+    background-image: linear-gradient(transparent, #17191c);
+}
+.anchorList {
+    &::before {
+        content : "• ";
+    }
+}

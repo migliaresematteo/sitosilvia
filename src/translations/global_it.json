@@ -1,0 +1,20 @@
+{
+    "home_header" : {
+        "subtitle" : "Fotografie"
+    },
+    "sidebar" : {
+        "menu" : "Menù",
+        "home" : "Home",
+        "friends" : "Siti amici",
+        "contacts" : "Contatti",
+        "credits" : "Sito web creato da"
+    },
+    "friends" : {
+        "titolo_1" : "Profondità di campo",
+        "titolo_2" : "Mi piacciono",
+        "titolo_3" : "Siti in sintonia",
+        "ue" : "Unione Europea",
+        "em" : "Emergency - Essere curati è un diritto di tutti. Senza discriminazioni.",
+        "am" : "AMREF - Health Africa"
+    }
+}

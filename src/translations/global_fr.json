@@ -1,0 +1,20 @@
+{
+    "home_header" : {
+        "subtitle" : "Photographies"
+    },
+    "sidebar" : {
+        "menu" : "Menu",
+        "home" : "Home",
+        "friends" : "Liens",
+        "contacts" : "Contacts",
+        "credits" : "Site créé par"
+    },
+    "friends" : {
+        "titolo_1" : "Profondeur de champ",
+        "titolo_2" : "J'aime ça",
+        "titolo_3" : "Les liens qui font du bien",
+        "ue" : "Union Européenne",
+        "em" : "Emergency – Être soigné est un droit de tous. Sans discrimination.",
+        "am" : "AMREF - Health Africa"
+    }
+}

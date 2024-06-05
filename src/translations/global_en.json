@@ -1,0 +1,20 @@
+{
+    "home_header" : {
+        "subtitle" : "Photographs"
+    },
+    "sidebar" : {
+        "menu" : "Menu",
+        "home" : "Home",
+        "friends" : "Links",
+        "contacts" : "Contacts",
+        "credits" : "Website by"
+    },
+    "friends" : {
+        "titolo_1" : "Depth of focus",
+        "titolo_2" : "I like it",
+        "titolo_3" : "Feeling good",
+        "ue" : "European Union",
+        "em" : "Emergency – Free, high-quality care. Without discrimination.",
+        "am" : "AMREF - Health Africa"
+    }
+}
