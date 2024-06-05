@@ -52,6 +52,7 @@ function App() {
       <Routes>
         <Route path="/" element={
           <>
+            {console.log('Rendering Home Page')}
             <Header titolo="Silvia Nives Vincitorio" sottotitolo={t("home_header.subtitle")} pulsante=" Visualizza la mia galleria" link="#" />
             <p className='container text-center fst-italic mt-5 pt-5  text-light'>Breve descrizione personale da inserire come introduzione ai contenuti Breve descrizione personale da inserire come introduzione ai contenuti Breve descrizione personale da inserire come introduzione ai contenuti Breve descrizione personale da inserire come introduzione ai contenuti Breve descrizione personale da inserire come introduzione ai contenuti Breve descrizione personale da inserire come introduzione ai contenuti Breve descrizione personale da inserire come introduzione ai contenuti Breve descrizione personale da inserire come introduzione ai contenuti</p>
             <ContentGallery />
