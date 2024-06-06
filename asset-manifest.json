@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sitosilvia/static/css/main.6e869a4e.css",
-    "main.js": "/sitosilvia/static/js/main.98d61a8d.js",
+    "main.js": "/sitosilvia/static/js/main.6e2288a6.js",
     "static/js/453.4c6972ee.chunk.js": "/sitosilvia/static/js/453.4c6972ee.chunk.js",
     "static/media/fa-solid-900.svg": "/sitosilvia/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
     "static/media/fa-brands-400.svg": "/sitosilvia/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
@@ -56,11 +56,11 @@
     "static/media/fa-regular-400.woff2": "/sitosilvia/static/media/fa-regular-400.7a3337626410ca2f4071.woff2",
     "index.html": "/sitosilvia/index.html",
     "main.6e869a4e.css.map": "/sitosilvia/static/css/main.6e869a4e.css.map",
-    "main.98d61a8d.js.map": "/sitosilvia/static/js/main.98d61a8d.js.map",
+    "main.6e2288a6.js.map": "/sitosilvia/static/js/main.6e2288a6.js.map",
     "453.4c6972ee.chunk.js.map": "/sitosilvia/static/js/453.4c6972ee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e869a4e.css",
-    "static/js/main.98d61a8d.js"
+    "static/js/main.6e2288a6.js"
   ]
 }
